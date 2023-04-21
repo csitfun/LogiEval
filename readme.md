@@ -1,6 +1,6 @@
 # LogiEval: a benchmark suite for testing logical reasoning abilities of instruct-prompt large language models
 
-This repository is based on the OpenAI Eval library [](https://github.com/openai/evals).
+This repository is based on the [OpenAI Eval library](https://github.com/openai/evals).
 
 ## Set up
 `pip install evals`
