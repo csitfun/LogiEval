@@ -1,0 +1,7 @@
+control:
+  id: control.dev.v0
+  metrics: [accuracy]
+control.dev.v0:
+  class: evals.elsuite.basic.match:Match
+  args:
+    samples_jsonl: control/control.jsonl
