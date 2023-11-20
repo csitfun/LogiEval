@@ -1,3 +1,4 @@
+===This repository is now MERGED with our [GLoRE](https://github.com/csitfun/GLoRE) benchmark.===
 # LogiEval: a benchmark suite for testing logical reasoning abilities of instruct-prompt large language models
 
 Please refer to our paper "[Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4](https://arxiv.org/abs/2304.03439)" if you are interested in this test suite.
